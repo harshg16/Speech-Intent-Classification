@@ -1,0 +1,445 @@
+sentence,label
+Are you in a safe location with the vehicle at the moment,breakdown
+"Please remain with your vehicle, a mechanic will be at your location shortly",breakdown
+Could you please describe the issue you are facing with the car,breakdown
+Can you describe the events leading up to the car breakdown,breakdown
+There is a garage within 1 km of your location,breakdown
+A tow truck has been sent out and will reach you in 15 minutes,breakdown
+The nearest garage is 10kms away,breakdown
+"You will have to change the flat tire yourself, do you have a car jack and a wheel spanner",breakdown
+Do you have a spare tyre,breakdown
+Remove the hubcap or wheel cover,breakdown
+"You will need to jump start the battery, do you have jumper leads",breakdown
+Put both the vehicles in Park or Neutral and shut off the ignition in both cars,breakdown
+start the engine that is working and let it run for a few minutes,breakdown
+pull the hand brake and put the car in reverse gear,breakdown
+"Sir, I think your car battery has drained due to headlights being on the entire night",breakdown
+There is an affiliated centre 2 kms from your location,breakdown
+Please stop the car on the side and wait for roadside assistance,breakdown
+Please fill some water in the engine water tank,breakdown
+Place a small stopper such as a stone to prevent the car from moving ,breakdown
+Make sure the warning sign has been placed at a sufficient distance from the car to warn incoming traffic,breakdown
+Switch off the air conditioning of the car and open the windows,breakdown
+"To remove water from the exhaust pipe, stop the car and press the accelerator a few times to let out some fumes",breakdown
+Sir your car need to be taken to the garage and cannot be repaired on site due to lack of required equipment,breakdown
+are you on the road or are you near your garage,breakdown
+expect a call back from dealership to assist you with your breakdown,breakdown
+we will get back to you when our breakdown assitant team reaches you,breakdown
+I have already passed down your name and number to the team which will assist you,breakdown
+How was your experience?,feedback
+Your feedback is appreciated,feedback
+This call is regarding your recent purchase of the Hexa,feedback
+"This call is regarding the latest servicing of your vehicle, the Tata Tiago",feedback
+How are you enjoying the new Tata Nexon that you purchased recently,feedback
+"After your recent servicing of your vehicle, have you noticed any new issues?",feedback
+Has the issue with your vehicle been rectified during the latest servicing of your car?,feedback
+Has the car you recently purchased met with your expectations,feedback
+We would like you to give us feedback either over call or online ,feedback
+How was your experience with the timely delivery of the car,feedback
+"sir how well is your car working after the yearly service, any new issues ?",feedback
+Can you please give a us a feedback on your purchasing experience,feedback
+How satisfied are you with the car,feedback
+How would you rate your experience,feedback
+We are sorry for your inconvinience,feedback
+I have registered your complaint and someone will get back to you shortly,feedback
+Grievance for price variation by the dealer,feedback
+Kindly share the car variant you own and your contact number so that we can take your concern forward with the relevant team.,feedback
+Can you provide us with a feedback for the waiting area.,feedback
+I would like to take your feedback regarding the test drive of the new vehicle.,feedback
+We would like to get your comments on the newly purchased vehicle.,feedback
+How likely are you to recommend our services to other?,feedback
+Were you satisfied with the services provided to you?,feedback
+Were your issues resolved?,feedback
+How long did it take the help to reach you?,feedback
+We would like to know about your experience at the service center.,feedback
+Did the showroom employee show you around a the vehicles you wanted to see and explain the features well?,feedback
+hi this is a call from tata motors and we are trying to access your feedback,feedback
+I have a set of questions for you and you can reply in yes or no ,feedback
+was the engineer available to you on time after report of breakdown,feedback
+how much was the delay in assistance and did the engineer give you a ring ,feedback
+I am sorry for the inconvenience,feedback
+was the work done to your satisfaction,feedback
+can you please rate us on a scale of  1 to 10,feedback
+Could I book you another test drive appointment ?,testdrive
+Sir I would like to confirm the test drive of i10 on this Monday at 4 pm,testdrive
+The model you requested will be available for a test drive tomorrow afternoon,testdrive
+Sorry to inform you but the test drive that was booked for you has been cancelled,testdrive
+For making a booking we will require a driver's license copy for all people who would wish to test drive the vehicle,testdrive
+For the test drive you are required to carry your valid drivers license with you,testdrive
+Due to unforseen circumstances the car you requested will not be available to test drive on the day you booked,testdrive
+I'm sorry to inform you that your test drive will have to be postponed to later in the evening,testdrive
+This is to confirm the test drive that you have booked for the new Tata Harrier,testdrive
+"thanks for placing a test drive request with us, we will connect with you shortly ",testdrive
+the test drive requested by you has been rejected because you dont own a valid driver's license,testdrive
+"thanks for showing interest in the car, would you like to take a test drive as well?",testdrive
+"due to heavy floods, test drives for mercedes benz have been cancelled for the day",testdrive
+"Sorry sir, we dont provide test drives without valid driver's license",testdrive
+regret to inform but your test drive request has been rejected ,testdrive
+The car will be available only after tomorrow evening,testdrive
+I'm sorry to inform you but your test drive will have to be postponed to a later date.,testdrive
+This is to confirm that your test drive for TATA Tiago has been scheuled for Friday 2pm,testdrive
+It is mandatory to carry you drivers lisence for the test drive,testdrive
+what time would you like to schedule your test drive for?,testdrive
+We are sorry to inform you that the model you are looking for is currently unavailable for test drive,testdrive
+"No, there are no artificial conditions created to test the ABS",testdrive
+I am sorry the test drive for tigor EV is not possible,testdrive
+can I have your name and reference available for details of test drive,testdrive
+"the car is not ready for test drive as of yet, it is only for commercial use",testdrive
+There is a showroom in andheri where you can check out the new model,vehicle_enquiry
+we can customise the interiors of the car,vehicle_enquiry
+The black leather seats can be replaced with the brown leather seats,vehicle_enquiry
+Mercedes benz provides 24 into 7 customer care service,vehicle_enquiry
+"no, we do not provide an upgrade in music system in the lowest model of the car",vehicle_enquiry
+"there is no petrol version of Tata Hexa, all cars are diesel",vehicle_enquiry
+The mileage of the car increases by 1.5 times outside city areas,vehicle_enquiry
+we have discontinued purple and white colour in tata nano,vehicle_enquiry
+"Yes we provide warranty extension, but only on the highest version of the car",vehicle_enquiry
+we provide free first car service after one year,vehicle_enquiry
+This car is specially designed to fit a family of 12 people,vehicle_enquiry
+The car is very comfortable for children and even has an in built child seat,vehicle_enquiry
+Yes this car is convertible and costs about 2 crores,vehicle_enquiry
+When you want to upgrade your vehicle this car also has a good resale value,vehicle_enquiry
+The on road price of the car will be around 10.5 lakhs,vehicle_enquiry
+The gearbox is a 6-speed manual transmission,vehicle_enquiry
+The car has an in-city mileage of 16 kmpl,vehicle_enquiry
+All variants of the car come with ABS and EBD features,vehicle_enquiry
+Would you like to look at other cars with similar design and price range,vehicle_enquiry
+Can you give me your address of stay,vehicle_enquiry
+you should be getting a call from the same in 2 days time,vehicle_enquiry
+You might have overfilled tyres,vehicle_quality
+There might be a problem with the wheel alignment or wheel balance,vehicle_quality
+The wiper blades will need to be replaced,vehicle_quality
+You can go to any mechanic or garage to get this issue fixed,vehicle_quality
+I can book an appointment for servicing at your convenience,vehicle_quality
+The engine oil needs to be changed,vehicle_quality
+Fresh coolant needs to be put,vehicle_quality
+Please replace the engine oil of the car regularly,vehicle_quality
+Please adjust the suspension height of the car ,vehicle_quality
+The car should be serviced every 6 months,vehicle_quality
+Using AC is consuming lot of fuel therefore reduced mileage,vehicle_quality
+The part will be replaced when you bring the car for servicing,vehicle_quality
+The part is of bad quality and will be replaced for free,vehicle_quality
+The tyres have worn out due to continuous run on crooked and non smooth roads,vehicle_quality
+We never compromise with quality and be rest assured that we have provided you with the best car parts,vehicle_quality
+"The speakers have stopped working due to water seeping into it, we will replace it",vehicle_quality
+Warranty covers damaged car parts which are of bad quality,vehicle_quality
+"It is important to only buy high quality original parts for your car, it is better in the long run",vehicle_quality
+is there any issue with your vehicle,vehicle_quality
+how long have you been facing this problem,vehicle_quality
+I am stuck for the past 1 hour and the gear box is still not working,breakdown
+I am stuck and the clutch pad has become stiff,breakdown
+I can't get my car back on,breakdown
+This is so frustrating the car stopped in the middle of the road,breakdown
+There are fumes everywhere and car has broken down,breakdown
+"There is some fluid leaking out of the bottom, I need assistance",breakdown
+"The tyre burst on the higway, please send someone immediately",breakdown
+"Can you send somebody, there are weird noises coming from the engine",breakdown
+The car is steering to the right even though the tyres aren't punctured,breakdown
+"I am near cama hospital, please send someone immediately, my car wont start",breakdown
+"The handbrake is stuck, I am near nagpada",breakdown
+My car won't start and I am on the western express highway,breakdown
+What to do I am on highway and tyres are punctured ,breakdown
+The red light is flickering and the engine is not starting,breakdown
+"There is an issue with the car's alternator, it has failed",breakdown
+system powered by electrical system is not working,breakdown
+"My clutch plate has worn out, which is causing the car to stop",breakdown
+"The exhaust pipe is clogged, which is heating up the engine",breakdown
+My key module is blocked and I cannot start the car,breakdown
+I keep getting the check engine light and red warning light,breakdown
+"I need a tow truck, my car has stopped in the middle of the road",breakdown
+I got into an accident and the front of my car is smashed,breakdown
+"Nobody has come yet, how much more do I have to wait",breakdown
+My car tyre is punctured what should I do,breakdown
+My car battery is dead,breakdown
+"My steering wheel is jammed, please help",breakdown
+I am on my way to Pune and got locked outside my car,breakdown
+"I want to avail the on road service, can you please help me out",breakdown
+My dashboard lights are off.,breakdown
+I'm stuck in the parking lot since the steering wheel is locked.,breakdown
+The ignition key cannot start the car,breakdown
+"I locked myself out of the car, can you please help me",breakdown
+I'm in a remote area and my tyre is flat and I need help as soon as possible,breakdown
+My car won't start and I think my engine isn't starting. I've been put on hold for the past 15 minutes.,breakdown
+I need help immediately. I drove my car off the road and now it's stuck in a ditch.,breakdown
+"Smoke is coming out of the bonnet
+",breakdown
+I'm on the highway and I've run out of gas.,breakdown
+My car battery is very low and so it stopped in the middle of the highway.,breakdown
+I can see smoke coming out of the engine so I stopped my vehicle.,breakdown
+The brakes have become loose so the car takes time to come to a halt.,breakdown
+My brand new tyres got punctured due to broken glass pieces on the road.,breakdown
+Transmission controlbox is jammed. I can't change gears.,breakdown
+I ran out of fuel in the middle of the road and even the reserve is empty.,breakdown
+I have a burst tyre and the car rammed into the truck ahead,breakdown
+My fuel tank is leaking so I keep running out of fuel,breakdown
+The engine keeps cutting off and doesn't start due to the rainy weather.,breakdown
+The radiator water is boiling making my engine too hot causing engine cut-off,breakdown
+There is water logging in my area and the water has seeped into the engine which wont start,breakdown
+There are no road lights and my car battery has drained I cannot see anything,breakdown
+I am on the way to pune and my car broke down,breakdown
+"I don’t know where I am, and my car has broken down",breakdown
+The service was fine,feedback
+This is very unprofessional behaviour,feedback
+I am very unhappy with the servicing,feedback
+The delivery was not on time,feedback
+I appreciate your help,feedback
+"Why did the process have to be so slow, it was super annoying",feedback
+I would like to register a complaint regarding your poor service and negligence,feedback
+Thanks for the timely delivery,feedback
+"your car service is pathetic, need to employee more efficient workers",feedback
+"i am really happy with your service, my car AC works perfectly ",feedback
+"such an annoying staff, no work ethics at all",feedback
+just wanted to thank you for doing such a wonderful work on my car,feedback
+your service center takes many days to respond and it is not convenient,feedback
+I think the service center needs to have a waiting area,feedback
+"I want to give feedback for my car service, where can I give it",feedback
+The customer service executive was not helpful,feedback
+I had a poor customer experience at the car dealership,feedback
+There is a big difference in price at your nearby outlets,feedback
+A couple of features which I had asked for were missing from my car,feedback
+Can I please get the number of the branch manager,feedback
+I am very disappointed by the level of service of your staff,feedback
+The car servicing was not up to mark,feedback
+"Replacement parts take too long to arrive, no timely service at all",feedback
+Car is not returned on time after servicing,feedback
+Poor customer care service,feedback
+The mechanic was very prompt and helpful,feedback
+"I have been waiting for the past 20 minutes, worst service ever",feedback
+I am dissapointed with the service,feedback
+Thank you so much for your help.,feedback
+"you have not been of any help to me, I am going to leave a negative feedback about your service centre",feedback
+It took you more than 20 minutes to respond,feedback
+Can I give the feedback online instead of over the phone?,feedback
+How would you rate our service,feedback
+I think you should have a seperate customer grievance cell,feedback
+"I wasn't informed after my car was ready after servicing
+",feedback
+"Where can I give a dealership facility feedback?
+",feedback
+"useless employees, absolutely pathetic service",feedback
+"Thank you so much, I ll make sure to give back a positive word for you to your manager",feedback
+Why wont you listen to me? I ll put a negative feedback for you and your service centre,feedback
+"I have been very satisfied with the work you have done on my car, thank you ",feedback
+Thank you for helping me out with the insurance of my car,feedback
+"The agent has answered all of my questions satisfactorily, he is a good and a patient employee",feedback
+I would like to report the behavior of the mechanic who was sent to report the car.,feedback
+I have to report suspicious charges put in my bill during the servicing of my car.,feedback
+there was a delay in assitance and I expected lesser waiting time,feedback
+When can I come to check out the new fiat?,testdrive
+What time next week can I drive the car?,testdrive
+Is the honda city available for test drive tomorrow?,testdrive
+What is the fee for test driving the new model,testdrive
+I had to wait for an hour but the test drive is complete,testdrive
+"The test drive went well, I appreciate it",testdrive
+I would like to schedule a test drive for the day after tomorrow,testdrive
+Can you please postpone my test drive,testdrive
+I can only decide to buy the car if I am satisfied with the test drive,testdrive
+"how long is the queue for test drive, its been days now since i have waited",testdrive
+"I want to buy the car right away, no need of test drive",testdrive
+could you please reschedule my test drive to next week,testdrive
+I want to test drive the automatic version of Kia Seltos,testdrive
+Will the automatic variant be available for a test drive,testdrive
+The test drive was smooth and the car brakes are perfect,testdrive
+The test drive car was not in good condition,testdrive
+The car dealership was not informed of my test drive,testdrive
+What all documents are required to book a test drive,testdrive
+Can multiple people test drive the car in one booking,testdrive
+I won't be able to make it for my test drive,testdrive
+Which is the nearest showroom where Indigo xl is available for test drive,testdrive
+Do I need to carry any documents for my test drive,testdrive
+Can you please reschedule my test drive of Tata Tiago to Monday,testdrive
+I would like to postpone my test drive appointment,testdrive
+Do I have to pay anything for a test drive?,testdrive
+What time can I come for the test drive?,testdrive
+Is there a nearby safe road for a test drive?,testdrive
+Is there a speed limit during a test drive?,testdrive
+Test drives availaible in all stores?,testdrive
+Can I get a test drive for a Toyota?,testdrive
+Are manouvering tests?,testdrive
+Will someone be assisting me for the test drive?,testdrive
+Are test drives for all the cars free?,testdrive
+Can I test all the features during the test drive?,testdrive
+I would like to test drive the new electric vehicle.,testdrive
+Is it possible to schedule a test drive for the new variant?,testdrive
+I was supposed to have a test drive today which was cancelled. Can it be rescheduled?,testdrive
+I would like to test the new mini truck to see if it meets my requirements.,testdrive
+I would like to request a test drive for the new SUV.,testdrive
+The test drive wasn't a successful one because the vehicle ran out of fuel. Can I try again?,testdrive
+Which vehicle would you suggest me to test drive in the sedan category?,testdrive
+Are trucks available for a test drive?,testdrive
+What's the test drive wait list for this vehicle?,testdrive
+Is it possible to reschedule my test drive appointment for today?,testdrive
+I wanted to take the test drive of tata tigor electric,testdrive
+"my friend has taken the test drive, why am I not being given the same",testdrive
+"no thanks, I only wanted to ask the details about the test drive",testdrive
+What is the release date of the new jeep,vehicle_enquiry
+what mileage can I expect from the car,vehicle_enquiry
+What are the new features of this car,vehicle_enquiry
+How does this car differ from the old model,vehicle_enquiry
+What are the financing options available for this car,vehicle_enquiry
+When will be the vehicle delivered if I order it this diwali,vehicle_enquiry
+Are there any offers this festive season,vehicle_enquiry
+Can I trade in my old car for the new one,vehicle_enquiry
+"Is there any parking assistance in the new car, my current one does not have it",vehicle_enquiry
+Was this model displayed at the automotive show? When can one buy it?,vehicle_enquiry
+What are the new safety features in this model,vehicle_enquiry
+Are there any deals to exchange my car in for the newer model,vehicle_enquiry
+How much mileage average does it give,vehicle_enquiry
+What is the on-road price for maharashtra,vehicle_enquiry
+How much is the ground clearance,vehicle_enquiry
+How long is the waranty,vehicle_enquiry
+What all is covered under the warranty,vehicle_enquiry
+How much is the extended warranty,vehicle_enquiry
+"Renault is launching a new climber version of kwid, I want to know its details",vehicle_enquiry
+Will there be a loan issue while buying Mercedes Benz on my salary ,vehicle_enquiry
+"Interested in new features of nano by tata, want to know more",vehicle_enquiry
+average of SUV compared to average of a sedan,vehicle_enquiry
+when will the higher version of toyota corolla release,vehicle_enquiry
+is there purple colour available in nano by tata,vehicle_enquiry
+interested in knowing the details of the new launch of i20,vehicle_enquiry
+what are the safety precautions in this car,vehicle_enquiry
+are there any festive offers on this car ,vehicle_enquiry
+is the same model available in brown leather seats instead of black,vehicle_enquiry
+Can I know when will the bookings for the car start again?,vehicle_enquiry
+What all fuel variants are available in the car?,vehicle_enquiry
+Is the automatic variant AMT or CVT,vehicle_enquiry
+What all colours are available for the car?,vehicle_enquiry
+What all banks support financing for the car,vehicle_enquiry
+What will be the down payment for the car,vehicle_enquiry
+Colud you tell me about the other color varients available in the same model,vehicle_enquiry
+What does the warranty cover?,vehicle_enquiry
+Can you hold the vehicle till I make a decision?,vehicle_enquiry
+What other amenities come with the car?,vehicle_enquiry
+What is the best price you can offer if I exchange my old car,vehicle_enquiry
+What is its fuel tank capacity?,vehicle_enquiry
+What is the engine horsepower?,vehicle_enquiry
+Is it geared or gearless?,vehicle_enquiry
+What are its safety features?,vehicle_enquiry
+Can you tell me what other colours are available for this model,vehicle_enquiry
+What is the on the road price of the vehicle?,vehicle_enquiry
+Are there any discounts availaible for this model ,vehicle_enquiry
+do you have any discounts for the new car if I buy in company's name,vehicle_enquiry
+"What is the average petrol consumption of the car?
+",vehicle_enquiry
+Can I get extended warranty for the car?,vehicle_enquiry
+Do you deal with out of state buyers?,vehicle_enquiry
+Do you have an in-built child seat in the car?,vehicle_enquiry
+"I'm looking for an electric car. Can you help me out?
+",vehicle_enquiry
+Hello! I would like the pricing information for the new Tata Tigor.,vehicle_enquiry
+What is the wait list period for purchasing Inidgo?,vehicle_enquiry
+What is the on-road price for Tata Aria?,vehicle_enquiry
+I need to know the maximum seating capacity of Tata Winger,vehicle_enquiry
+Are there any festive offers going on for purchasing a new vehicle?,vehicle_enquiry
+Is it possible to get some discount on a new vehicle if I exchange it for my old vehicle?,vehicle_enquiry
+What is the price difference between the petrol and Diesel version?,vehicle_enquiry
+Does this car have a CNG version?,vehicle_enquiry
+I need the color and interior options for my new vehicle.,vehicle_enquiry
+Does this car have an electric variant?,vehicle_enquiry
+Does this car come with Air Bags included?,vehicle_enquiry
+What are the safety features of this car?,vehicle_enquiry
+I need the variant which includes a sun roof.,vehicle_enquiry
+What benefits are included with this vehicle?,vehicle_enquiry
+Can this mini van fit 12 people?,vehicle_enquiry
+I need the best interiors possible for my vehicle.,vehicle_enquiry
+How were the crash test results for the vehicle?,vehicle_enquiry
+What are the pollution check results for this vehicle?,vehicle_enquiry
+I would like information on purchase,vehicle_enquiry
+I am looking for a truck in 10 tonne category,vehicle_enquiry
+The fuel cap just broke again,vehicle_quality
+The steering becomes tighter in every drive,vehicle_quality
+The windows don't go down,vehicle_quality
+"The car paint is wearing off, and its only been a year since I bought the car",vehicle_quality
+"There need to be tubeless tyre's option, it punctures too often",vehicle_quality
+One of the doors wont open,vehicle_quality
+The sound system is making a screeching noise,vehicle_quality
+The suspention is too tight,vehicle_quality
+"The headlight isn't good, water seeps in the monsoons",vehicle_quality
+The windsheeld wipers does not function,vehicle_quality
+I have been experiencing a bouncy ride,vehicle_quality
+I have been experiencing a very hard ride,vehicle_quality
+The tyres of my car seem to be worn out unevenly,vehicle_quality
+The wiper is not working properly and effectively,vehicle_quality
+The reverse camera quality is very low,vehicle_quality
+"The distance sensors are not being able work properly, probably quality issue",vehicle_quality
+There is some liquid leaking from my car,vehicle_quality
+the automatic windows dont work anymore,vehicle_quality
+The leather seats have started wearing off,vehicle_quality
+the engine heats up too fast,vehicle_quality
+The AC always stops working even after continuous repairs,vehicle_quality
+The tyre treads are wearing out at a fast rate,vehicle_quality
+The steering wheel cover does not have a proper grip,vehicle_quality
+Air conditioning of the car is very poor,vehicle_quality
+The mileage of the car has been reducing drastically,vehicle_quality
+The media system of the car is faulty,vehicle_quality
+"My rear view mirror is broken, please get me a replacement",vehicle_quality
+"My engine is heating up a lot, can the engine be replaced",vehicle_quality
+"I can hear a rattling sound, bad quality woofers",vehicle_quality
+"Shifting gears are too tight, bad quality",vehicle_quality
+The AC does not provide sufficient cooling,vehicle_quality
+The tail lights are not bright enough,vehicle_quality
+Squeak type noise from the front glass,vehicle_quality
+My car windows are not closing completely,vehicle_quality
+Mileage has reduced significantly,vehicle_quality
+My airbag indicator is not working ,vehicle_quality
+My left and right signals aren't working .,vehicle_quality
+The AC doesn't seem to be working.,vehicle_quality
+Excessive heating is occuring in the car ,vehicle_quality
+The windshield is getting fogged up too frequently.,vehicle_quality
+My wipers are getting stuck,vehicle_quality
+My car remote isn't working even from a close distance,vehicle_quality
+My tail lights are constantly on.,vehicle_quality
+I'm planning on a long trip but my battery keeps getting drained if not in constant use.,vehicle_quality
+My car is making a noise after the speed crosses 40km/ph,vehicle_quality
+there is a lot of noise in the gearbox,vehicle_quality
+such a noise is coming from the past one week,vehicle_quality
+Theres smoke coming out of my car,breakdown
+I've locked my keys inside the car,breakdown
+You will need to jump start your car,breakdown
+The engine keeps turning off if the car is idle,breakdown
+The brakes on the car have failed,breakdown
+"Please remain calm, someone is on their way to help you",breakdown
+There is a garage 200 meters ahead you,breakdown
+There are strange noises coming from my car,breakdown
+My key is stuck in the ignition,breakdown
+The bonnet is not opening,breakdown
+How soon will the vehicle be delivered,vehicle_enquiry
+Does this car have reverse cameras,vehicle_enquiry
+Are there passenger side airbags,vehicle_enquiry
+Is the car equiped with ABS,vehicle_enquiry
+When will the new model be out,vehicle_enquiry
+What is the resale value of the car,vehicle_enquiry
+what if I want to upgrade to a newer model in a year,vehicle_enquiry
+Do you provide roadside assistance,vehicle_enquiry
+How much do I have to pay yearly for maintenance,vehicle_enquiry
+What are the EMI options available ,vehicle_enquiry
+Passenger side window doesn't come up,vehicle_quality
+I can only hear static on all the radio channels,vehicle_quality
+The car steers to the right even when the steering wheel is straight,vehicle_quality
+My side view mirror is broken,vehicle_quality
+the proximity sensors are not working,vehicle_quality
+The paint is chipping,vehicle_quality
+The leather seats are fading,vehicle_quality
+The air conditioning is not cooling properly,vehicle_quality
+sound system is not working well when connected to bluetooth,vehicle_quality
+the buttons to control the sound system on the steering wheel have stopped working,vehicle_quality
+Is the higher model available for test drive,testdrive
+Is there any other vehicle you would like to try?,testdrive
+Can I postpone my test drive appointment to tomorrow?,testdrive
+Did you experience any issues during the test drive?,testdrive
+How soon can I test drive the latest model,testdrive
+There is a slot available tomorrow if you would like,testdrive
+I'm sorry the new model will not be available to test drive for another week,testdrive
+Who all will be test driving the car?,testdrive
+Everyone who will be driving will be required to bring their valid drivers lisence,testdrive
+If you cancel your appointment there is no other slot we can give you this week,testdrive
+It has taken a week longer than I was told for my vehicle to be delivered,feedback
+I would like to speak to your manager,feedback
+My car was delivered with a scratch on the passenger side door,feedback
+How satisfied are you with your purchase,feedback
+Sorry to inform you but your vehicle delivery has been delayed,feedback
+The model you were interested in has arrived in the showroom,feedback
+Is there anything else I can help you with?,feedback
+What problem are you facing ,feedback
+How has been my service today,feedback
+How has been your experience with the new vehicle,feedback
